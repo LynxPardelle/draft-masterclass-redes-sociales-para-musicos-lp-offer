@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-redes-sociales-para-musicos.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Redes sociales y difusión para músicos | Lynx Pardelle",
+    "description": "Piensa cómo presentar tu música en internet y conversar con la gente que ya te escucha. Distingue la distribución de la difusión y elige acciones que tengan sentido para tu proyecto.",
+    "canonical": "https://masterclass-redes-sociales-para-musicos.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-negocio.webp"
+    }
+  }
+}

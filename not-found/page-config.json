@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "domain": "masterclass-redes-sociales-para-musicos.music.lynxpardelle.com",
+  "pageId": "not-found",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Página no encontrada | Lynx Pardelle",
+    "description": "Vuelve a la oferta de Lynx Pardelle.",
+    "canonical": "https://masterclass-redes-sociales-para-musicos.music.lynxpardelle.com/404",
+    "robots": "noindex,nofollow"
+  }
+}
