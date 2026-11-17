@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Redes sociales y difusión para músicos | Lynx Pardelle",
-    "description": "Piensa cómo presentar tu música en internet y conversar con la gente que ya te escucha. Distingue la distribución de la difusión y elige acciones que tengan sentido para tu proyecto.",
+    "title": "Masterclass de redes sociales y difusión para músicos | Lynx Pardelle",
+    "description": "Distingue la distribución musical de la promoción en redes. Traza un plan breve de publicaciones, canales y acciones de seguimiento para un lanzamiento.",
     "canonical": "https://masterclass-redes-sociales-para-musicos.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-redes-sociales-para-musicos-r2-79874d8e39f4419e.webp",
+      "title": "Masterclass de redes sociales y difusión para músicos | Lynx Pardelle",
+      "description": "Distingue la distribución musical de la promoción en redes. Traza un plan breve de publicaciones, canales y acciones de seguimiento para un lanzamiento.",
+      "url": "https://masterclass-redes-sociales-para-musicos.music.lynxpardelle.com/",
+      "imageAlt": "Cámara y teléfono en un set para crear contenido musical."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de redes sociales y difusión para músicos | Lynx Pardelle",
+      "description": "Distingue la distribución musical de la promoción en redes. Traza un plan breve de publicaciones, canales y acciones de seguimiento para un lanzamiento.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-redes-sociales-para-musicos-r2-79874d8e39f4419e.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-redes-sociales-para-musicos.music.lynxpardelle.com/#webpage",
+        "name": "Redes sociales y difusión para músicos",
+        "description": "Distingue la distribución musical de la promoción en redes. Traza un plan breve de publicaciones, canales y acciones de seguimiento para un lanzamiento.",
+        "url": "https://masterclass-redes-sociales-para-musicos.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-redes-sociales-para-musicos.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-redes-sociales-para-musicos.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Redes sociales y difusión para músicos",
+        "description": "Distingue la distribución musical de la promoción en redes. Traza un plan breve de publicaciones, canales y acciones de seguimiento para un lanzamiento.",
+        "url": "https://masterclass-redes-sociales-para-musicos.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-redes-sociales-para-musicos-r2-79874d8e39f4419e.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-redes-sociales-para-musicos.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
